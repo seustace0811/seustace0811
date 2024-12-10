@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on ... ImageJ programming for Nuclear medicine image processing - both for QC and for research projects and 3D printing
+🔭 I’m currently working on ... ImageJ programming for Nuclear medicine image processing - both for QC and for research projects. I have also recently started 3D printing.
 
  🌱 I’m currently learning ... imajeJ macro writting skills and how to build models from scratch using slicer/design programs for 3D printing
 
